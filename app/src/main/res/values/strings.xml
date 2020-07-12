@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">synchronize</string>
+    <string name="synchronize">Синхронизация</string>
+    <string name="morning">MORNING</string>
+    <string name="day">DAY</string>
+    <string name="evening">EVENING</string>
+</resources>
